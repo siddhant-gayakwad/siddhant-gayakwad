@@ -1,4 +1,4 @@
-<h3 align="left">Hello there! My name is Siddhant Gayakwad, and I'm from Ahmedabad. I'm a lazy but Talented</h3>
+<h3 align="left">Hello there! My name is Siddhant Gayakwad, and I'm from Ahmedabad.</h3>
 
 ###
 
